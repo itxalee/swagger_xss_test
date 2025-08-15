@@ -2,7 +2,9 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+    This should <i>render italics</i> if HTML isn’t stripped.
+    <svg role="img" aria-label="probe"><title>probe</title></svg>
+    <a href="javascript:VOID">link</a>
 
   version: production
 basePath: /JSSResource/
