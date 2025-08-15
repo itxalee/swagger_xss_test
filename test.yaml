@@ -2,8 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <img src=x>
-    <svg><animate attributeName="href" values="javascript:alert(1)" dur="1s" repeatCount="indefinite"></animate></svg>
+    <img src=x><math><mtext><script>alert(1)</script></mtext></math>
   
 
   version: production
