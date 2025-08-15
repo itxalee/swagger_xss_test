@@ -2,11 +2,8 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    HTML probe: <i>italics</i>
-    Link scheme probe: <a href="javascript:alert()">link</a>
-    Data URL probe: <img src="data:text/plain,probe" alt="probe">
-    SVG probe: <svg role="img"><title>probe</title></svg>
-    MathML probe: <math><mtext>probe</mtext></math>
+    <img src=x>
+  
 
   version: production
 basePath: /JSSResource/
