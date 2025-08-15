@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <img src=x><math><mtext><script>alert(1)</script></mtext></math>
+    <svg><foreignObject><body onload=alert(1)></body></foreignObject></svg>
   
 
   version: production
