@@ -32,9 +32,11 @@ paths:
     delete:
       parameters:
         - description: |
-            This should <i>render italics</i> if HTML isn’t stripped.
-            <svg role="img" aria-label="probe"><title>probe</title></svg>
-            <a href="javascript:VOID">link</a>
+            HTML probe: <i>italics</i>
+            Link scheme probe: <a href="javascript:alert()">link</a>
+            Data URL probe: <img src="data:text/plain,probe" alt="probe">
+            SVG probe: <svg role="img"><title>probe</title></svg>
+            MathML probe: <math><mtext>probe</mtext></math>
 
           format: int64
           in: path
