@@ -2,8 +2,8 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <svg><foreignObject><body onload=alert(1)></body></foreignObject></svg>
-  
+    <math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;">
+    ghost
 
   version: production
 basePath: /JSSResource/
